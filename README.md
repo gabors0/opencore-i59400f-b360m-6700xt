@@ -4,6 +4,7 @@
 
 ![screenshot here](https://github.com/gabors0/opencore-i59400f-b360m-6700xt/blob/main/screenshot.png)
 
+- **Opencore version:** 1.0.4
 - **Motherboard:** ASRock Fatal1ty B360 Gaming K4
 - **BIOS settings:** as shown in the [guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 - **CPU:** Intel Core i5-9400F
