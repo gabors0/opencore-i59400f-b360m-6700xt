@@ -1,5 +1,8 @@
 # Worked/Works with: MacOS 15.4.1
 > This is absolutely not guaranteed to work for you, it's kinda here for backup reasons
+> The release contains the recovery dmg too
+
+![screenshot here](https://github.com/gabors0/opencore-i59400f-b360m-6700xt/blob/main/screenshot.png)
 
 - **Motherboard:** ASRock Fatal1ty B360 Gaming K4
 - **BIOS settings:** as shown in the [guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
@@ -13,6 +16,8 @@
 - **Uses NootRX, hardware acceleration works**
 - **Audio works with both alcid 3 and 5, the rest are untested**
 - **iServices seem to work**
+- **Pretty ok boot times**
+- **Blutetooth, Wifi:** *untested*
 
 # Installation
 - ### [Read the guide!!](https://dortania.github.io/OpenCore-Install-Guide/)
